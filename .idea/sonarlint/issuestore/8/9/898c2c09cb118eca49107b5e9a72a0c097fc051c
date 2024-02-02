@@ -1,0 +1,11 @@
+
+~
+java:S1192"\Define a constant instead of duplicating this literal "                INNER JOIN
+" 3 times.(Ä¹˜Çşÿÿÿÿ8×´Ë§1
+K
+java:S1121*".Extract the assignment out of this expression.( Ë•š8Ø´Ë§1
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ê²¥Áüÿÿÿÿ8í´Ë§1
+»
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(¸—Æøÿÿÿÿ8î´Ë§1
+F
+java:S1172]")Remove this unused method parameter "id".(¯ÅÍÜ8ù´Ë§1
